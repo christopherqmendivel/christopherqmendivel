@@ -5,6 +5,8 @@ Actualmente me encuentro en la búsqueda de mi primera oportunidad laboral en un
 
 Me defino como una persona autodidacta, la mayoría de mis conocimientos los he adquirido de esta manera, ya sea mediante vídeos, guías o prácticas personales. Me gusta aprender cosas nuevas todos los días e indagar sobre temas que me entusiasman.
 
+[Portfolio](http://christopherquirozdev.herokuapp.com/)
+
 ## 🌐Redes sociales
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chriscqm404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christopherquirozmendivel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MendivQ) 
 
