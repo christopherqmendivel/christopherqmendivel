@@ -1,7 +1,5 @@
 # 💫Sobre Mí:
-Mi nombre es Christopher Quiroz estudiante de Desarrollo Web.
-
-Actualmente me encuentro en la búsqueda de mi primera oportunidad laboral en una empresa para desempeñar mis conocimientos y al a vez adquirir experiencia junto a un equipo de trabajo.
+Mi nombre es Christopher Desarrollador Frontend.
 
 Me defino como una persona autodidacta, la mayoría de mis conocimientos los he adquirido de esta manera, ya sea mediante vídeos, guías o prácticas personales. Me gusta aprender cosas nuevas todos los días e indagar sobre temas que me entusiasman.
 
